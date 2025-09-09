@@ -1,0 +1,1 @@
+This is an example platformer game which features a sample code for Player Actions (Idle, Run, Jump, Attack, Jump Attack, Hurt, and Die), Damage Handling for Trap Collision, and Enemy State (Idle, Hurt, and Killed)
